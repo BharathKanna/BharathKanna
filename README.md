@@ -66,7 +66,7 @@ Threat Intelligence     █████████░░░░░  MISP · CTI 
 
 **SIEM & Log Management**
 
-![Graylog](https://img.shields.io/badge/-Graylog-212121?style=flat-square)
+![Wazuh](https://img.shields.io/badge/-Wazuh-212121?style=flat-square)
 ![Elastic](https://img.shields.io/badge/-ELK%20Stack-005571?style=flat-square&logo=elastic&logoColor=white)
 ![Splunk](https://img.shields.io/badge/-Splunk-65A637?style=flat-square)
 ![Filebeat](https://img.shields.io/badge/-Filebeat-f9a825?style=flat-square)
