@@ -127,7 +127,7 @@ Threat Intelligence     █████████░░░░░  MISP · CTI 
 
 | Channel | Link |
 |---|---|
-| 🌐 Consulting | [tekgenx.eu](https://tekgenx.be) |
+| 🌐 Consulting | [tekgenx.be](https://tekgenx.be) |
 | 💼 LinkedIn | [linkedin.com/in/bharath-narayanasamy](https://linkedin.com/in/bharath-narayanasamy) |
 | 🔬 Lab Blog | [netwerklabs.com](https://netwerklabs.com) |
 | 📊 GRC & Threat Intel | [thecybermatrix.com](https://thecybermatrix.com) |
