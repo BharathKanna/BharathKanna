@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-Cybersecurity consultant with **24+ years of experience** across network security, GRC, detection engineering, DFIR, and purple team operations. Based in **Belgium 🇧🇪**, running **[TekGenX Consulting BV](https://tekgenx.eu)** — helping organisations build proportionate, practical cyber resilience programmes, not checkbox compliance.
+Cybersecurity consultant with **20+ years of experience** across network security, GRC, detection engineering, DFIR, and purple team operations. Based in **Belgium 🇧🇪**, running **[TekGenX Consulting BV](https://tekgenx.eu)** — helping organisations build proportionate, practical cyber resilience programmes, not checkbox compliance.
 
 Previously **Network & Security Lead at Nokia** (2003–2013), currently engaged at **Proximus** on FTTH functional and security testing.
 
